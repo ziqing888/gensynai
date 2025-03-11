@@ -19,6 +19,13 @@ curl -O https://raw.githubusercontent.com/ziqing888/gensynai/refs/heads/main/rl_
 chmod +x rl_swarm_setup.sh && \
 ./rl_swarm_setup.sh
 ```
+支持多种系统版本的一键命令
+```bash
+curl -O https://raw.githubusercontent.com/ziqing888/gensynai/refs/heads/main/rl_swarm_setup_multi.sh && chmod +x rl_swarm_setup_multi.sh && ./rl_swarm_setup_multi.sh
+```
+![image](https://github.com/user-attachments/assets/ae8f2f77-e877-4f0a-990d-a139a478ddb0)
+
+
 ## 脚本主要功能
 
 ### 依赖安装
