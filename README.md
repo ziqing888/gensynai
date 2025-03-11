@@ -48,6 +48,8 @@ curl -O https://raw.githubusercontent.com/ziqing888/gensynai/refs/heads/main/rl_
 ### Web UI 访问
 - 如果默认端口 8080 被占用，脚本会自动调整为例如 8081。
 - 访问地址示例：`http://<你的IP>:8081/`。
+![image](https://github.com/user-attachments/assets/224b9c41-93a3-47a0-8397-dfaa624a3e37)
+
 
 ### 退出日志查看
 在日志界面按 `Ctrl+C` 后，脚本会提示按回车返回主菜单。
