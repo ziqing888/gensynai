@@ -64,7 +64,7 @@ show_banner() {
     echo "       当前日期: $(date '+%Y-%m-%d')     "
     echo "=========================================="
     echo -e "${NC}"
-    echo "欢迎使用此脚本设置 RL Swarm 节点！"
+    echo "关注X：https://x.com/qklxsqf 获得更多资讯！"
     echo "本脚本将帮助您安装依赖、配置节点并启动 Web UI。"
     echo ""
 }
